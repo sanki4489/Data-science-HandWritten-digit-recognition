@@ -1,8 +1,8 @@
 # Data-science-HandWritten-digit-recognition
 Subject: Neural network
-sem: 7th
-Group members: Sankalp verma, Bhavin patel, Jhalak rasaily
-Concept covered: Advanced machine learning, dataset, Python programming
+sem: 7th,
+Group members: Sankalp verma, Bhavin patel, Jhalak rasaily;
+Concept covered: Advanced machine learning, dataset, Python programming;
 
 1.The handwritten digit recognition program uses the image of a digit and recognizes the digit present in the image.
 2.The program is written in Python.
